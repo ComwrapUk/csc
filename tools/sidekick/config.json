@@ -1,5 +1,5 @@
 {
-  "project": "comwrap-asset-selector",
+  "project": "franklin-asset-selector",
   "plugins": [
     {
       "id": "library",
